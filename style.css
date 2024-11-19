@@ -1,0 +1,725 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+:root{
+scroll-behavior: smooth;
+
+}
+
+
+[css]
+
+#contact_us
+{
+padding: 10px;
+background-color:#262525;
+color:#CCCCCC;
+font-size: 1.1em;
+}
+
+#contact_us #tel_number
+{
+color: #EEEEEE;
+font-weight:700;
+}
+
+div#high_banner
+{
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 30px;
+background-image:url(../img/background_header.png);
+background-size: 100%;
+}
+
+div#high_banner img
+{
+max-width: 25%;
+max-height: 100px;
+}
+
+nav.menu
+{
+margin-bottom: 20px;
+padding-top: 15px;
+padding-bottom: 15px;
+background-color:#454545;
+display: table;
+width: 100%;
+-webkit-box-shadow: 0 10px 6px -6px #777;
+-moz-box-shadow: 0 10px 6px -6px #777;
+box-shadow: 0 10px 6px -6px #777;
+}
+
+nav.menu ul
+{
+width: 100%;
+text-align: center;
+display: table-cell;
+vertical-align: middle;
+}
+
+nav.menu ul #last_item
+{
+border-right: 0px;
+}
+
+nav.menu ul li
+{
+width: 20%;
+border-right: 1px solid #707070;
+display: inline;
+vertical-align: baseline;
+}
+
+nav.menu ul li a
+{
+color: #FFFFFF;
+font-style: normal;
+text-decoration: none;
+vertical-align:baseline;
+text-align:center;
+margin-left: 2%;
+margin-right: 2%;
+font-size:1.1em;
+font-weight:600;
+}
+
+nav.menu ul li a:hover
+{
+color:#110505;
+}
+
+[ css ]
+
+body{
+  padding: 30px; 
+}
+.block {
+  height: 780px;
+  border-radius: 15px;
+  box: shadow 0 0 10px #000; ;
+    background-image: url(../image/texture-318907_1280.jpg); 
+    
+  z-index: 30;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+  .text{
+    font-family: "Oswald";
+    padding: 80px;
+text-align: center;
+font-size: 250%;
+color: #fafafa;
+ text-shadow:  5px 5px 10px #000;
+  
+
+}
+
+.ttt{
+
+font-size: 80%;
+}
+
+.lsl{
+
+align-items: center;
+flex-direction: column;
+
+}
+.smit img{
+z-index:  none; 
+position: absolute;
+bottom: -15%;
+left: 30%;
+max-width: 100%;
+object-fit: cover;
+max-width: fit-content;
+
+
+}
+
+
+.kurva img{
+z-index: none;
+position: absolute;
+right: 24%;
+bottom: 20%;
+max-width: max-content;
+
+
+}
+
+
+
+.paket{
+
+z-index: 20;
+height: 570px;
+background-image:url(../image/texture-318907_1280.jpg) ;
+background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      border-radius: 15px;
+      box: shadow 0 0 10px #000; ;
+
+}
+
+.coco{
+  position: absolute;
+right: 10%;
+}
+.soska{
+position: absolute;
+right: 39%;
+}
+.bebra{
+position: absolute;
+right: 68%;
+
+}
+.osebe{
+
+  height: 870px;
+  background-image:url(../image/texture-318907_1280.jpg) ;
+  background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border-radius: 15px;
+        box: shadow 0 0 10px #000; ;
+  
+
+
+
+}
+.zagolovko{
+
+  font-family: "Oswald";
+    padding: 10px;
+text-align: center;
+font-size: 150%;
+color: #fafafa;
+ text-shadow:  5px 5px 10px #000;
+  
+}
+
+.tony{
+font-family: "Oswald";
+position: absolute;
+  padding: 10px;
+text-align: center;
+font-size: 180%;
+color: #fafafa;
+text-shadow:  5px 5px 10px #000;
+left: 950px; ;
+}
+
+.super img{
+position: relative;
+left: 210px;
+bottom:-14px ;
+max-height: 700px;
+
+}
+
+
+.raboty{
+
+z-index: 40;
+  height: 890px;
+  background-image:url(../image/texture-318907_1280.jpg) ;
+  background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border-radius: 15px;
+        box: shadow 0 0 10px #000; ;
+
+}
+.zupuka{
+position: relative;
+  font-family: "Oswald";
+  padding: 1px;
+text-align: center;
+font-size: 150%;
+color: #fafafa;
+text-shadow:  5px 5px 10px #000;
+bottom:500px ;
+}
+
+.korabli {
+position: relative;
+bottom: -265px;
+right: -113px;
+max-width: auto;
+max-height: auto;
+}
+.prorab {
+position: relative;
+bottom: -320px;
+left: -425px;
+max-width: auto;
+max-height: auto;
+}
+  .vedushei {
+position: relative;
+bottom: -317px;
+left: 108px;
+max-width: auto;
+max-height: auto;
+}
+.sapogi {
+position: relative;
+right: -522px; 
+bottom: -320px;
+max-width: auto;
+max-height: auto;
+}
+.sisad {
+position: relative;
+left: 70px;
+bottom:-263px ;
+max-width: auto;
+max-height: auto;max-width: auto;
+max-height: auto;
+}
+.hokei {
+position: relative;
+right:-30px;
+bottom:-265px ;
+max-width: auto;
+max-height: auto;
+}
+.prais{
+  z-index: 40;
+  height: 890px;
+  background-image:url(../image/texture-318907_1280.jpg) ;
+  background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border-radius: 15px;
+        box: shadow 0 0 10px #000; ;
+}
+
+.slova{
+
+  position: relative;
+  font-family: "Oswald";
+  padding: 1px;
+text-align: center;
+font-size: 150%;
+color: #fafafa;
+text-shadow:  5px 5px 10px #000;
+}
+.pon{
+
+  font-family: "Oswald";
+  position: absolute;
+    padding: 10px;
+  text-align: center;
+  font-size: 180%;
+  color: #fafafa;
+  text-shadow:  5px 5px 10px #000;
+  left: 950px; ;
+
+}
+
+.col img{
+position: relative;
+left: 130px;
+
+}
+.many img{
+position: relative;
+top: -20%;
+z-index: 0;
+width: 0%; 
+left: -12%;
+
+
+}
+
+
+
+
+.contacts{
+  z-index: 40;
+  height: 500px;
+  background-image:url(../image/texture-318907_1280.jpg) ;
+  background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border-radius: 15px;
+        box: shadow 0 0 10px #000; ;
+        position: relative;
+}
+
+.lol{
+
+  position: relative;
+  font-family: "Oswald";
+  padding: 1px;
+
+font-size: 350%;
+color: #fafafa;
+text-shadow:  5px 5px 10px #000;
+top: -140px;
+right: -5%;
+}
+.link  {
+padding: 20px 50px;
+outline: none;
+border: none;
+border-radius: 25px;
+background-color: darkgreen;
+font-family: "Oswald";
+color: #fafafa;
+cursor: pointer;
+font-weight: 600;
+font-size: 20px;
+box-shadow: 0px 5px 10px ;
+display: inline-block;
+position: relative;
+left: 17%;
+top: -30px;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: #000;
+}
+
+/*===================*/
+/* WOOBLE VERTICAL
+/*===================*/
+
+@-webkit-keyframes wobble-vertical-on-hover {
+  16.65% {
+    -webkit-transform: translateY(8px);
+    transform: translateY(8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(-6px);
+    transform: translateY(-6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(1px);
+    transform: translateY(1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes wobble-vertical-on-hover {
+  16.65% {
+    -webkit-transform: translateY(8px);
+    transform: translateY(8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(-6px);
+    transform: translateY(-6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(1px);
+    transform: translateY(1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+.wobble-vertical-on-hover {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.wobble-vertical-on-hover:hover, .wobble-vertical-on-hover:focus, .wobble-vertical-on-hover:active {
+  -webkit-animation-name: wobble-vertical-on-hover;
+  animation-name: wobble-vertical-on-hover;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+
+.lala{
+  font-family: "Oswald";
+  position: relative;
+    padding: 10px;
+  text-align: center;
+  font-size: 180%;
+  color: #fafafa;
+  text-shadow:  5px 5px 10px #000;
+top: -300px;
+left: -25%;
+
+}
+
+.gaga img{
+
+position: absolute;
+right: 300px;
+bottom: 0%;
+height: 550px;
+}
+
+
+
+
+@media screen and  (min-width: 1200px ){
+  
+  .contenedor {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+  }
+  .box {
+    width: 200px;
+    height: 300px;
+    background-color: red;
+    display: inline-block;
+  }
+  
+  
+  /* Grow Shadow */
+  .hvr-grow-shadow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+  }
+  .hvr-grow-shadow:hover, .hvr-grow-shadow:focus, .hvr-grow-shadow:active {
+    box-shadow: 10px 10px 5px rgba(254, 254, 254, 0.2);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  
+  
+  
+}
+ 
+
+
+
+
+
+@media screen and (max-width: 500px) {
+ 
+.smit img{
+top: 95%;
+height: 40%;
+left: 2%;
+}
+
+.kurva img{
+height: 18%;
+top: 96%;
+left: 26%;
+}
+
+.text{
+  padding: 3%;
+}
+
+  .paket{
+display: none ;
+  } 
+
+  .super img{
+height: 30%;
+top: 52%;
+left: 21%;
+  }
+
+  .zagolovko{
+padding: 1%;
+
+  }
+
+.tony{
+font-size: 130%;
+left: 0%;
+top: 156%;
+}
+
+.zupuka {
+bottom: 870px;
+}
+.hokei img{
+  bottom: 140px;
+  right: 0%;
+ width: 250px;
+ position: relative;
+  }
+ 
+ .sisad img{
+ bottom: 125px;
+ left: -13%;
+ width: 250px;
+ position: relative;
+ }
+ 
+ .korabli img{
+ right: 85px;
+ bottom: 115px;
+ width: 250px;
+ position: relative;
+
+ }
+ 
+ .sapogi img{
+ right: 495px;
+ bottom: 160px;
+ width: 250px;
+ position: relative;
+ }
+ 
+  .prorab img{
+   left: 453px;
+   bottom: 150px;
+   width: 250px;
+   position: relative;
+   
+  } 
+ 
+ .vedushei img{
+ left: -80px;
+ bottom: 140px;
+ width: 250px;
+ position: relative;
+ 
+ }
+.raboty{
+  height: 100%;
+}
+
+
+.col img{
+height: 30%;
+width: 60%;
+left: -5px;
+top: 45%;
+display: none;
+}
+
+.pon{
+left: 0px;
+font-size: 130%;
+bottom: -460%;
+z-index: 23323;
+}
+
+.many img{
+width: 30%;
+top: 35%;
+display: none;
+}
+
+.gaga img{
+height: 230px;
+bottom: 98%;
+right: 125px;
+width: 35%;
+}
+
+.prais{
+height: 960px;
+
+}
+
+.contacts{
+height: 400px;
+
+}
+
+.lol{
+font-size: 190%;
+right: -10px;
+top: -65px;
+white-space: nowrap;
+}
+
+.lala{
+font-size: 140%;
+top: -180px;
+left: 1px;
+}
+
+
+.link{
+top: 90px;
+left: 80px;
+}
+
+.osebe{
+height: 980px;
+
+}
+
+br{
+
+  display: none;
+}
+
+
+
+
+}
+
+
+
+
+  
